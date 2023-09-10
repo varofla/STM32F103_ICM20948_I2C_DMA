@@ -1,0 +1,15 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### VisualStudioCode ###
+.vscode
+.vs
+
+### STM32 Project
+build
+.osx.project
+CMakePresets.json
+vcpkg-configuration.json
